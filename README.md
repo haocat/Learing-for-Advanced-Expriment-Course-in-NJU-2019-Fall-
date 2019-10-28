@@ -2,6 +2,6 @@
 repository for Advanced Expriment Course Ⅱ in NJU
 
 ## BCH encoder (255,191,8) in seriel way:
-  bch_encoder.v : use a LFSR to encode in seriel     
+  bch_encoder.v : use a LFSR to encode in seriel way        
   simu_coder_test.v: simulation file to test
   
