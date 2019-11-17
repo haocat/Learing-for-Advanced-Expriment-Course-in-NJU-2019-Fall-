@@ -6,7 +6,7 @@ repository for Advanced Expriment Course Ⅱ in NJU
   simu_coder_test.v: simulation file to test
 
 ## BCH encoder (511,484,3) in 4 bits parallel way:
-  encoder _parallel_511_484_3_4bits.v: encode in 4-bits-parallel way
+  encoder _parallel_511_484_3_4bits.v: encode in 4-bits-parallel way      
   simu_parallel_511.v:simulation file to test 
   
   
