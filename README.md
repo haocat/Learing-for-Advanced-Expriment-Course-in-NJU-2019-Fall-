@@ -8,6 +8,6 @@ repository for Advanced Expriment Course Ⅱ in NJU
 ## BCH encoder (511,484,3) in 4 bits parallel way: （need debugging）
   encoder _parallel_511_484_3_4bits.v: encode in 4-bits-parallel way      
   simu_parallel_511.v:simulation file to test 
-  parallel.vds:Vivado Synthesis Report
+  parallel.vds:Vivado Synthesis Report      
   parallel_utilization_synth.rpt:Report on utilization of resources on the targeted device (report_utilization)
   
